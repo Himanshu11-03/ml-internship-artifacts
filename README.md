@@ -12,3 +12,10 @@
    ```bash
    cd ml-internship-artifacts
    jupyter notebook
+
+
+
+
+
+##To Pratice these models required datasets are in datset.rar file 
+
